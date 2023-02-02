@@ -1,1 +1,1 @@
-The readme for 0x01-git
+It’s time to code!
